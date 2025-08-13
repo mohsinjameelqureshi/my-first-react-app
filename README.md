@@ -1,12 +1,32 @@
-# React + Vite
+# 🎬 My First React Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek **React** application that lets you search for movies, view trending picks based on search activity, and store search history in **Appwrite**.  
+Powered by **TMDB API** for movie data and **Vite** for blazing-fast development.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🔍 **Search Movies** — Find any movie instantly using TMDB.
+- 📈 **Trending Searches** — See which movies are popular based on search history.
+- 💾 **Persistent Storage** — Search terms stored in Appwrite.
+- ⚡ **Fast & Modern** — Built with React + Vite.
+- 🎨 **Responsive UI** — Works on mobile, tablet, and desktop.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React** — UI library
+- **Vite** — Development and build tool
+- **TMDB API** — Movie data provider
+- **Appwrite** — Backend for storing search history
+
+---
+
+## 📦 Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd my-first-react-app
