@@ -28,5 +28,25 @@ Powered by **TMDB API** for movie data and **Vite** for blazing-fast development
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/mohsinjameelqureshi/my-first-react-app.git
 cd my-first-react-app
+```
+
+###2️⃣ Install dependencies
+```bash
+npm install
+```
+
+###3️⃣ Create .env file
+```env
+VITE_TMDB_API_KEY=
+VITE_APPWRITE_PROJECT_ID=
+VITE_APPWRITE_DATABASE_ID=
+VITE_APPWRITE_COLLECTION_ID=
+```
+
+###4️⃣ Run the development server
+```bash
+npm run dev
+```
+
